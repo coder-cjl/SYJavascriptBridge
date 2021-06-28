@@ -1,0 +1,6 @@
+framework module SYJavascriptBridge {
+  umbrella header "SYJavascriptBridge-umbrella.h"
+
+  export *
+  module * { export * }
+}

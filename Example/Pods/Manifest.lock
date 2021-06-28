@@ -1,0 +1,16 @@
+PODS:
+  - SYJavascriptBridge (0.0.1)
+
+DEPENDENCIES:
+  - SYJavascriptBridge (from `../`)
+
+EXTERNAL SOURCES:
+  SYJavascriptBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYJavascriptBridge: 47b2483e689c2b09a4aa5feb0f273f2287d5851b
+
+PODFILE CHECKSUM: 783ba7aa95d50d5c3e3972c6838488b01c312717
+
+COCOAPODS: 1.10.1

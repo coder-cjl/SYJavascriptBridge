@@ -1,0 +1,6 @@
+framework module Pods_SYJavascriptBridge_Example {
+  umbrella header "Pods-SYJavascriptBridge_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
