@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SYJavascriptBridge_Example' do
+  pod 'SYJavascriptBridge', :path => '../'
+
+  target 'SYJavascriptBridge_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
